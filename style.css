@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.breakbutton{
+  background-color: #00b0b3;
+  border: 5px solid #8b0000;
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  border-radius: 100px;
+  /* cursor: pointer; */
+}
